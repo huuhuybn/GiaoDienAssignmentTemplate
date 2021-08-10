@@ -1,4 +1,4 @@
-package com.example.slide8.ui.gallery;
+package com.example.slide8.ui.khoanchi;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
